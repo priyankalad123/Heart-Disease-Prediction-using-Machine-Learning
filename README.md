@@ -1,24 +1,12 @@
 # Heart-Disease-Prediction-using-Machine-Learning
-Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
+Preventing heart diseases is crucial, and data-driven systems play a vital role in prediction, research, and prevention. In this project, a dataset of heart disease patients underwent thorough analysis and data processing. Various machine learning models were applied, and predictions were made using different algorithms.
 
-The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and and predictions are made with different algorithms KNN, Decision Tree, Random Forest,SVM,Logistic Regression etc This is the jupyter notebook code and dataset I've used for my Kaggle kernel 'Binary Classification with Sklearn and Keras'
-
-I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
-
-Machine Learning algorithms used:
-
-Logistic Regression (Scikit-learn)
-
-Naive Bayes (Scikit-learn)
-
-Support Vector Machine (Linear) (Scikit-learn)
-
-K-Nearest Neighbours (Scikit-learn)
-
-Decision Tree (Scikit-learn)
-
-XGBoost (Scikit-learn)
-
-Artificial Neural Network with 1 Hidden layer (Keras)
-
-Accuracy achieved: 85.25%(Logistic Regression and Naive Bayes)
+Machine Learning Algorithms and Accuracy Scores:
+Logistic Regression: 85.25%
+Naive Bayes: 85.25%
+Support Vector Machine: 81.97%
+K-Nearest Neighbors: 67.21%
+Decision Tree: 81.97%
+XGBoost: 83.61%
+Neural Network: 83.61%
+The accuracy scores provide insights into the performance of each algorithm in predicting the presence or absence of heart disease. 
